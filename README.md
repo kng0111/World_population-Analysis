@@ -1,4 +1,4 @@
-# Analysis of Global Population & Forecast (1955-2050)
+# Analysis of Global population & Forecast (1955-2050)
 
 
 ### project overview
