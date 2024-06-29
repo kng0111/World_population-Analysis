@@ -1,4 +1,4 @@
-# Analysis of Global population & Forecast (1955-2050)
+# Analysis of Global population & Forecast (2020-2050)
 
 
 ### project overview
@@ -22,7 +22,7 @@ Place of publication: Dover, Delaware, U.S.A.
 
 - Python - Data Analysis
 
-- Tableau - Data visualization/Reports 
+- PowerBI- Data visualization/Reports 
 
 ### Analytical Method 
 
