@@ -22,7 +22,7 @@ Place of publication: Dover, Delaware, U.S.A.
 
 - Python - Data Analysis
 
--Tableau- Data visualization/Reports 
+- Tableau- Data visualization/Reports 
 
 ### Analytical Method 
 
